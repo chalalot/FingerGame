@@ -1,0 +1,1 @@
+I tried creating a simple Computer Vision game using OpenCV and Mediapipe. The game is very simple. Use your index finger to create a trail, and when you snap your index with your thumb, the square will disappear and you get a point. Good luck!!
